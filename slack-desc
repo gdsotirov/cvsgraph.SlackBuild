@@ -1,0 +1,11 @@
+cvsgraph: CvsGraph 1.6.0 (2005-12-18) A CVS/RCS repository grapher
+cvsgraph:
+cvsgraph: CvsGraph is a utility to make a graphical representation of all
+cvsgraph: revisions and branches of a file in a CVS/RCS repository. It has
+cvsgraph: been inspired by the 'graph' option in WinCVS.
+cvsgraph:
+cvsgraph:
+cvsgraph:
+cvsgraph:
+cvsgraph: Packager: Georgi D. Sotirov <gdsotirov@dir.bg>
+cvsgraph:
